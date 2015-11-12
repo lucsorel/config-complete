@@ -1,0 +1,15 @@
+{
+    "name": "my well-configured local app",
+    "http": {
+        "port": 3000
+    },
+    "database": {
+        "uriPrefix": "mongo://",
+        "host": "localhost",
+        "port": 12345,
+        "user": {
+            "name": "test",
+            "password": null
+        }
+    }
+}

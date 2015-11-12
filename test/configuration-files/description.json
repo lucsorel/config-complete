@@ -1,0 +1,15 @@
+{
+    "name": "the application name",
+    "http": {
+        "port": "the http port of the application"
+    },
+    "database": {
+        "uriPrefix": "the database type URI prefix",
+        "host": "the server hosting the database",
+        "port": "the port used by the database",
+        "user": {
+            "name": "the name of the database user to use",
+            "password": "the password of the database user to use"
+        }
+    }
+}

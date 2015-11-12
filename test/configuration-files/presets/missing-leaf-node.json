@@ -1,0 +1,12 @@
+{
+    "name": "my well-configured app",
+    "database": {
+        "uriPrefix": "mongo://",
+        "host": "dev.my-app.org",
+        "port": 12345,
+        "user": {
+            "name": "test",
+            "password": "test"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "my well-configured app",
+    "http": {
+        "port": 3000
+    }
+}

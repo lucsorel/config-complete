@@ -1,0 +1,11 @@
+{
+    "http": {
+    },
+    "database": {
+        "uriPrefix": "mongo://",
+        "port": 12345,
+        "user": {
+            "password": "test"
+        }
+    }
+}

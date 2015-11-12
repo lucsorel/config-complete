@@ -130,10 +130,18 @@ Error: development.json misses the following required properties:
 * configuration and description files are expected in the JSON format
 * this library does not provide a way to extend a configuration with another one
 
+# Unit-testing
+This library is unit-tested in most of its possible combinations:
+* with/without a description file
+* with/without a defined `presets` directory
+* with/without a defined `customs` directory
+* with different combinations of properties missing at various levels (in terms of JSON indentation)
+
+Unit tests can be run with the `npm test` command.
+
+Despite these efforts, should you find an issue or spot a vital feature, you are welcome to report bugs and submit pull requests!
+
 # License
 May be freely distributed under the [MIT license](https://github.com/lucsorel/config-complete/blob/master/LICENSE).
-
-
-Pull-requests, comments and issues reporting are welcome.
 
 Copyright (c) 2015 Luc Sorel

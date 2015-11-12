@@ -1,0 +1,14 @@
+{
+    "http": {
+        "port": 3000
+    },
+    "database": {
+        "uriPrefix": "mongo://",
+        "host": "dev.my-app.org",
+        "port": 12345,
+        "user": {
+            "name": "test",
+            "password": "test"
+        }
+    }
+}
