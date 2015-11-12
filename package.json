@@ -1,6 +1,6 @@
 {
   "name": "config-complete",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A configuration loader for NodeJS projects, which checks that all the required settings are defined.",
   "main": "index.js",
   "scripts": {
