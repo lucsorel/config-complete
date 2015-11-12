@@ -131,7 +131,8 @@ Error: development.json misses the following required properties:
 * this library does not provide a way to extend a configuration with another one
 
 # License
-May be freely distributed under the [MIT license](https://github.com/lucsorel/config-complete/master/LICENSE).
+May be freely distributed under the [MIT license](https://github.com/lucsorel/config-complete/blob/master/LICENSE).
+
 
 Pull-requests, comments and issues reporting are welcome.
 
