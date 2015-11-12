@@ -1,0 +1,26 @@
+{
+  "name": "config-complete",
+  "version": "0.0.1",
+  "description": "A configuration loader for NodeJS projects, which checks that all the required settings are defined.",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucsorel/config-complete.git"
+  },
+  "keywords": [
+    "configuration",
+    "settings",
+    "complete",
+    "check"
+  ],
+  "author": "Luc Sorel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucsorel/config-complete/issues"
+  },
+  "homepage": "https://github.com/lucsorel/config-complete#readme",
+  "dependencies": {}
+}
